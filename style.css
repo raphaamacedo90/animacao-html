@@ -1,0 +1,17 @@
+
+
+.tela{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: burlywood; 
+    overflow: hidden; 
+}
+
+.quadrado{
+
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background-color: red;     
+}
